@@ -14878,3 +14878,5 @@
 127.0.0.1 - - [25/Jun/2023:01:09:49 +0800] "GET /api/shop/1 HTTP/1.1" 200 713 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 127.0.0.1 - - [25/Jun/2023:01:09:54 +0800] "GET /api/shop/3 HTTP/1.1" 200 575 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 127.0.0.1 - - [25/Jun/2023:02:09:07 +0800] "GET /api/shop/3 HTTP/1.1" 502 494 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+127.0.0.1 - - [25/Jun/2023:02:49:17 +0800] "GET /api/shop/1 HTTP/1.1" 200 713 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+127.0.0.1 - - [25/Jun/2023:11:15:40 +0800] "GET /api/shop/1 HTTP/1.1" 200 713 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
